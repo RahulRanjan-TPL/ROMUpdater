@@ -6,6 +6,6 @@
     <string name="action_settings">Settings</string>
     <string name="action_aboutus">AboutUs</string>
     <string name="app_descrip">ROM Updater \n App Version 1.0.1 \n \n ROM Updater is an application for update the ROM from local storage. This is specially for Amlogic MXQ Android TV BOX.</string>
-    <string name="app_credits">Developed By \n Techpro Lab IT System Pvt. Ltd.</string>
+    <string name="app_credits">Developed By \n Rahul Ranjan.</string>
 
 </resources>
